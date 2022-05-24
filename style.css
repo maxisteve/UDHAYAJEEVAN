@@ -456,8 +456,8 @@ input {
 }
 
 .default-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .default-padding-top {
@@ -3109,8 +3109,9 @@ ul.pagination {
 
 .we-do-area .item {
   padding: 60px 30px;
+  height: 300px;
   background: #ffffff;
-  box-shadow: 0 5px 30px 0 rgba(214, 215, 216, 0.57);
+  box-shadow: 0px 1px 14px 1px #cfcfcf;
 }
 
 .we-do-area .item h4 {
@@ -4696,6 +4697,7 @@ ul.pagination {
 
 .testimonials-area .item .info {
   padding: 50px;
+  height: 180px;
   background: #ffffff;
   box-shadow: -1px 3px 10px 0 rgba(0, 0, 0, 0.06);
   position: relative;
